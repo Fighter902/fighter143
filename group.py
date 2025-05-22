@@ -15,7 +15,7 @@ bot = telebot.TeleBot('6829329110:AAH89A7vnUyypU8hh_1ssJYUUiAtYcLAYCU')
 admin_id = ["1789079780"]
 
 # Group and channel details
-GROUP_ID = -1002470771241"
+GROUP_ID = "-100247077124"
 CHANNEL_USERNAME = "@PARADOX_VIP_CHEAT","https://t.me/PARADOX_VIP_CHEAT"
 
 # Default cooldown and attack limits
